@@ -14,8 +14,6 @@ public class Tareaed04 {
     public static void main(String[] args) 
     {
         System.out.println("Hello World!");
-        System.out.println("Me voy a Github");
-        System.out.println("Borja Vera Andreu");
-        System.out.println("Me vuelvo a Netbeans");
+        System.out.println("Esta tarea es para despliegue de aplicaciones web!!");
     }
 }
